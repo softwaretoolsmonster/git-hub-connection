@@ -6,3 +6,5 @@ This is `inline code`
 Let's try it.
 
 ### This is the last line of text! 
+
+## Fake it, this is the last line :)
